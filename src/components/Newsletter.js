@@ -6,7 +6,7 @@ const NewsLetter = () => {
           Sign up for our newsletter
         </h2>
         <p className="mb-4 text-base text-gray-500 md:mb-6 dark:text-gray-400 md:text-center md:text-xl lg:px-20 xl:px-56">
-          Do you want to get notified when a new component is added to Nekto.me?
+          Do you want to get notified when a new component is added to Nothing.me?
           Sign up for our newsletter and you will be among the first to find out
           about new features, components, versions, and tools.
         </p>

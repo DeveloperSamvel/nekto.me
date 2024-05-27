@@ -14,7 +14,7 @@ const TermsPage = () => {
               Terms and conditions
             </h1>
             <p className="mb-10 text-lg text-gray-600 dark:text-gray-400 lg:text-lg">
-              Read about the terms and conditions for Nekto.me. If you have a
+              Read about the terms and conditions for Nothing.me. If you have a
               question please
               <a
                 className="mx-2 font-normal text-blue-600 no-underline dark:text-blue-400 hover:underline"
@@ -32,9 +32,9 @@ const TermsPage = () => {
               your access to and use of the
               <a
                 className="text-blue-600 no-underline dark:text-blue-400 hover:underline"
-                href="https://nekto.me"
+                href="https://nothing.me"
               >
-                https://nekto.me
+                https://nothing.me
               </a>
               website as well as any other media form, media channel, mobile
               website or mobile application related, linked, or otherwise
@@ -555,9 +555,9 @@ const TermsPage = () => {
               use of the Site or the Marketplace Offerings, please contact us at
               <a
                 className="text-blue-600 no-underline dark:text-blue-400 hover:underline"
-                href="https://nekto.me/contact"
+                href="https://nothing.me/contact"
               >
-                https://nekto.me/contact/
+                https://nothing.me/contact/
               </a>
             </p>
           </div>

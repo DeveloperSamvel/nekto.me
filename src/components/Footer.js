@@ -53,7 +53,7 @@ const Footer = () => {
                   />
                 </span>
                 <img
-                  alt="Nekto.me Logo"
+                  alt="Nothing.me Logo"
                   src="/images/logo.svg"
                   decoding="async"
                   data-nimg="intrinsic"
@@ -75,11 +75,11 @@ const Footer = () => {
                 />
               </span>
               <span className="self-center ml-3 text-2xl font-semibold text-gray-900 dark:text-white">
-                Nekto.me
+                Nothing.me
               </span>
             </a>
             <p className="text-gray-600 dark:text-gray-400">
-              Nekto.me is an ecosystem built on top of Tailwind CSS including a
+              Nothing.me is an ecosystem built on top of Tailwind CSS including a
               component library, block sections, a Figma design system and other
               resources.
             </p>
@@ -91,7 +91,7 @@ const Footer = () => {
             <ul>
               <li className="mb-4">
                 <a
-                  href="https://Nekto.me.com/docs/getting-started/introduction/"
+                  href="https://nothing.me.com/docs/getting-started/introduction/"
                   className="font-medium text-gray-600 dark:text-gray-400 dark:hover:text-white hover:underline"
                 >
                   Documentation
@@ -102,7 +102,7 @@ const Footer = () => {
                   className="font-medium text-gray-600 dark:text-gray-400 dark:hover:text-white hover:underline"
                   href="/blocks/"
                 >
-                  Nekto.me Blocks
+                  Nothing.me Blocks
                 </a>
               </li>
               <li className="mb-4">
@@ -110,7 +110,7 @@ const Footer = () => {
                   className="font-medium text-gray-600 dark:text-gray-400 dark:hover:text-white hover:underline"
                   href="/icons/"
                 >
-                  Nekto.me Icons
+                  Nothing.me Icons
                 </a>
               </li>
               <li className="mb-4">
@@ -118,15 +118,15 @@ const Footer = () => {
                   className="font-medium text-gray-600 dark:text-gray-400 dark:hover:text-white hover:underline"
                   href="/figma/"
                 >
-                  Nekto.me Figma
+                  Nothing.me Figma
                 </a>
               </li>
               <li className="mb-4">
                 <a
                   className="font-medium text-gray-600 dark:text-gray-400 dark:hover:text-white hover:underline"
-                  href="https://chat.openai.com/g/g-y7yC35HB9-Nekto.me-gpt"
+                  href="https://chat.openai.com/g/g-y7yC35HB9-Nothing.me-gpt"
                 >
-                  Nekto.me GPT
+                  Nothing.me GPT
                 </a>
               </li>
               <li className="mb-4">
@@ -249,7 +249,7 @@ const Footer = () => {
         </div>
         <hr className="my-8 border-gray-200 dark:border-gray-700 lg:my-12" />
         <span className="block font-normal text-center text-gray-600 dark:text-gray-400">
-          © 2019-2024 Nekto.me™ is a registered trademark. All Rights Reserved.
+          © 2019-2024 Nothing.me™ is a registered trademark. All Rights Reserved.
         </span>
       </div>
     </footer>

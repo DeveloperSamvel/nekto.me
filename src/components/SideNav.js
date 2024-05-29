@@ -42,21 +42,21 @@ const SideNav = () => {
           </button>
         </div>
         <div className="pt-2.5 px-2.5">
-          <p class="font-bold text-sm">About</p>
-          <p class="leading-1 pt-2 text-gray-900 text-xs">
+          <p className="font-bold text-sm">About</p>
+          <p className="leading-1 pt-2 text-gray-900 text-xs">
             I tell them when I teach the law - “live, you saints, hiding your
             good deeds and exposing your sins.” (c)
           </p>
         </div>
-        <div className="p-2.5">
-          <p class="font-bold text-sm">Your attitude</p>
-          <span class="leading-1 pt-2 text-gray-900 text-xs">positive</span>
-          <span class="leading-1 pt-2 text-gray-900 text-xs">/</span>
-          <span class="leading-1 pt-2 text-gray-900 text-xs">negative</span>
+        <div className="pt-2.5 px-2.5">
+          <p className="font-bold text-sm">Karma</p>
+          <p className="leading-1 pt-2 text-gray-900 text-xs">positive [+25]</p>
         </div>
-        <div className="p-2.5">
-          <p class="font-bold text-sm">Karma</p>
-          <p class="leading-1 pt-2 text-gray-900 text-xs">positive [+25]</p>
+        <div className="pt-2.5 px-2.5">
+          <p className="font-bold text-sm">Your attitude</p>
+          <button className="leading-1 pt-2 text-gray-900 text-xs underline cursor-text">positive</button>
+          <span className="leading-1 px-1 text-gray-900 text-xs">/</span>
+          <button className="leading-1 pt-2 text-gray-900 text-xs hover:underline">negative</button>
         </div>
       </div>
     </aside>

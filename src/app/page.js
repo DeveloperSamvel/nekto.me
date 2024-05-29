@@ -1,6 +1,5 @@
 import Footer from "@/components/Footer";
 import HeaderNavigation from "@/components/HeaderNavigation";
-import NewsLetter from "@/components/Newsletter";
 
 import { Carousel } from "flowbite-react";
 import { SLIDER_IMAGES } from "@/constants";
@@ -53,8 +52,6 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <section className="bg-white dark:bg-gray-900"></section>
-      {/* </div> */}
       <Footer />
     </main>
   );

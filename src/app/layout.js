@@ -15,7 +15,9 @@ export default function RootLayout({ children }) {
       <head>
         <ThemeModeScript />
       </head>
-      <body className={inter.className}>{children}</body>
+      <body className={`bg-gradient-to-r from-gray-50 to-emerald-50 ${inter.className}`}>
+        {children}
+      </body>
     </html>
   );
 }

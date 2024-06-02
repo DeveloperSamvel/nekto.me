@@ -18,7 +18,7 @@ const Post = () => {
           </div>
         </div>
         <div className="flex items-center">
-          <button type="button" className="flex font-medium items-center text-green-500 text-sm">
+          <button type="button" className="flex font-medium items-center text-emerald-600 text-sm">
             <svg
               className="h-4 w-4"
               xmlns="http://www.w3.org/2000/svg"
@@ -35,7 +35,7 @@ const Post = () => {
             </svg>
           </button>
           <span className="ml-1 mr-1.5">+22</span>
-          <button type="button" className="flex font-medium items-center text-green-500 text-sm">
+          <button type="button" className="flex font-medium items-center text-emerald-600 text-sm">
             <svg
               className="h-4 w-4"
               xmlns="http://www.w3.org/2000/svg"
@@ -58,7 +58,7 @@ const Post = () => {
         the UX designer should consider while creating the design
         strategy...
       </p>
-      <button type="button" className="bg-green-500 mt-4 px-4 py-1 rounded-[5px] text-white">
+      <button type="button" className="bg-emerald-600 mt-4 px-4 py-1 rounded-[5px] text-white">
         Read more
       </button>
     </div>

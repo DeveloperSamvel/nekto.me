@@ -32,9 +32,9 @@ const TermsPage = () => {
               your access to and use of the
               <a
                 className="text-blue-600 no-underline dark:text-blue-400 hover:underline"
-                href="https://nothing.me"
+                href="/"
               >
-                https://nothing.me
+                Nothing.me
               </a>
               website as well as any other media form, media channel, mobile
               website or mobile application related, linked, or otherwise
@@ -555,9 +555,9 @@ const TermsPage = () => {
               use of the Site or the Marketplace Offerings, please contact us at
               <a
                 className="text-blue-600 no-underline dark:text-blue-400 hover:underline"
-                href="https://nothing.me/contact"
+                href="/contact"
               >
-                https://nothing.me/contact/
+                Contact
               </a>
             </p>
           </div>

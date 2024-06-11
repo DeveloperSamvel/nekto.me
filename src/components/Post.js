@@ -58,9 +58,9 @@ const Post = () => {
         the UX designer should consider while creating the design
         strategy...
       </p>
-      <button type="button" className="bg-emerald-600 mt-4 px-4 py-1 rounded-[5px] text-white">
+      <a href="/id/wsw484848" className="bg-emerald-600 mt-4 px-4 py-1 rounded-[5px] text-white">
         Read more
-      </button>
+      </a>
     </div>
   );
 };
